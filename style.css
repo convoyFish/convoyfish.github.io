@@ -20,13 +20,13 @@ ul.myUL {
   
   margin: auto;
   display: block;
-  border: purple 7px ridge;
+  border: pink 7px ridge;
   width: 200px;
   height: 150px;
 }
 
 .test{
-  border: purple 7px ridge;
+  border: pink 7px ridge;
   height: 530px;
   width: 370px;
   margin: auto;
