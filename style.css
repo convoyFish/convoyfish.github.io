@@ -26,7 +26,7 @@ ul.myUL {
 }
 
 .test{
-  border: pink 7px ridge;
+  border: pink; 7px ridge;
   height: 530px;
   width: 370px;
   margin: auto;
