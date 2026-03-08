@@ -37,7 +37,7 @@ body {
   background-color: pink;
   color: purple;
   font-family: Verdana;
-  background-image: url(/ro.png);
+  background-image: url(/bg.png);
   cursor: url("cursor1.png"), auto;
   
 }
